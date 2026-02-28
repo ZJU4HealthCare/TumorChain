@@ -10,7 +10,7 @@ Welcome to **TumorChain!**
 Our goal is to advance clinical tumor analysis through reliable multimodal reasoning at scale. This project presents a cohesive three-part framework—Dataset, Benchmark, and Model—to enable safe, explainable, and reproducible tumor assessment in high-stakes settings.
 
 <p align="center">
-  <img src="images/teaser.png" style="width:90%;vertical-align:middle;" />
+  <img src="image/teaser.png" style="width:90%;vertical-align:middle;" />
 </p>
 
 ##### :clap: Core Vision:
@@ -23,14 +23,14 @@ Our goal is to advance clinical tumor analysis through reliable multimodal reaso
 
 We introduce TumorCoT-1.5M — a large-scale dataset comprising 1.5 million Chain-of-Thought (CoT) labeled VQA prompts, paired with 3D CT scans, featuring stepwise reasoning and cross-modal alignments along the findings–impression–pathology trajectory.
 
-<img src="images/agent.jpg" style="width:70%;vertical-align:middle;" /><img src="images/data.jpg" style="width:30%;vertical-align:middle;" />
+<img src="image/agent.jpg" style="width:70%;vertical-align:middle;" /><img src="image/data.jpg" style="width:30%;vertical-align:middle;" />
 
 ## :ferris_wheel: Model Architecture
 
 TumorChain is a **multi-modal, iterative interleaved reasoning framework** for 3D CT tumor analysis that fuses a 3D vision encoder, organ segmentation model, auxiliary classification model, an MLP projector, and a large language model (LLM) to perform stepwise, evidence-grounded reasoning from findings to impressions to pathology, with traceable evidence and calibrated uncertainty.
 
 <p align="center">
-  <img src="images/model.png" style="width:80%;vertical-align:middle;" />
+  <img src="image/model.png" style="width:80%;vertical-align:middle;" />
 </p>
 
 ## 🛠️ Getting Started
