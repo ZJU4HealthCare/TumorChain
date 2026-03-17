@@ -1,10 +1,8 @@
 <h1 align = "center">
 TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis
 </h1>
-Official Repo for Paper ‘’TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis‘’
 
 <div align="center">
-
 Sijing Li<sup>1,2*</sup>, Zhongwei Qiu<sup>2,3,1*</sup>, Jiang Liu<sup>1</sup>, Wenqiao Zhang<sup>1†</sup>, Tianwei Lin<sup>1,2</sup>, <br>
 Yihan Xie<sup>1</sup>, Jianxiang An<sup>1</sup>, Boxiang Yun<sup>2</sup>, Chenglin Yang<sup>1</sup>, Jun Xiao<sup>1</sup>, Guangyu Guo<sup>2,1</sup>, <br>
 Jiawen Yao<sup>2</sup>, Wei Liu<sup>2</sup>, Yuan Gao<sup>2</sup>, Ke Yan<sup>2</sup>, Weiwei Cao<sup>2</sup>, Zhilin Zheng<sup>2</sup> <br>
