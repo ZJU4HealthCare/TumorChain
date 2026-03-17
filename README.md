@@ -14,7 +14,7 @@ Beng Chin Ooi<sup>1</sup>, Yingda Xia†<sup>2</sup>, Ling Zhang<sup>2</sup> <br
 <br>
 
 <a href='https://arxiv.org/abs/2603.05867'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<a href='https://github.com/alibaba-damo-academy/Tumorchain'><img src='https://img.shields.io/badge/Damo-GitHub-green'></a>
+<a href='https://github.com/alibaba-damo-academy/Tumorchain'><img src='https://img.shields.io/badge/DAMO-GitHub-green'></a>
 
 </div>
 
